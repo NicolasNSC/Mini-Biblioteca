@@ -1,2 +1,2 @@
 # Mini-Biblioteca
- Projeto de pesquisa de livros por categoria.
+Projeto realizado em JavaScript simulando um JSON para obter uma lista de livros e obter uma categoria específica. 
